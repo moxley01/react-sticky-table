@@ -109,7 +109,7 @@
   }
 
   function _templateObject() {
-    var data = _taggedTemplateLiteral(["\n  white-space: nowrap;\n  display: table;\n  box-sizing: border-box;\n"]);
+    var data = _taggedTemplateLiteral(["\n  white-space: nowrap;\n  display: table;\n  box-sizing: border-box;\n  background: pink;\n"]);
 
     _templateObject = function _templateObject() {
       return data;

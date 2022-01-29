@@ -9,6 +9,7 @@ const Table = styled('div').attrs(() => ({
   white-space: nowrap;
   display: table;
   box-sizing: border-box;
+  background: pink;
 `;
 
 Table.displayName = 'Table';
