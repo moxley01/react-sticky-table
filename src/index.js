@@ -19,7 +19,6 @@ const Cell = styled('div').attrs(() => ({
   display: table-cell;
   box-sizing: border-box;
   padding: 0.5rem 0.75rem;
-  background-color: #fff;
 `;
 
 Cell.displayName = 'Cell';
